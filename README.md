@@ -13,7 +13,7 @@ I'm a passionate full stack web developer from India, specializing in the MERN s
 
 ### Connect with Me
 
-- **Personal Website**: [dimpaldas.com](https://dimpaldas.com)
+- **Personal Website**: [dimpaldas.in](https://www.dimpaldas.in)
 - **LinkedIn**: [Dimpal Das](https://linkedin.com/in/dimpal-das-0a098a165)
 - **Email**: dimpaldas519@gmail.com
 
