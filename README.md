@@ -1,7 +1,7 @@
 <div align="center">
-  
-# Hello world 👋 , I'm Dimpal Das
-#### Full Stack Web Developer | MERN Stack Specialist | Currently Learning Next.js
+
+# Hello World 👋 I'm Dimpal Das  
+#### Software Engineer | Web & Mobile Application Developer | Problem Solver
 
 </div>
 
@@ -9,51 +9,35 @@
 
 ### About Me
 
-I'm a passionate full stack web developer from India, specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). With a strong foundation in web development technologies, I strive to create elegant and efficient solutions for various projects.
+I’m a software engineer from India, passionate about crafting smart, reliable, and scalable digital solutions. My experience spans both **web** and **mobile application development**, where I focus on building user-friendly interfaces, efficient backends, and seamless user experiences.
 
-### Connect with Me
+Driven by curiosity and a commitment to continuous improvement, I enjoy solving real-world problems through technology and delivering products that create impact.
 
-- **Personal Website**: [dimpaldas.in](https://www.dimpaldas.in)
-- **LinkedIn**: [Dimpal Das](https://linkedin.com/in/dimpal-das-0a098a165)
-- **Email**: dimpaldas519@gmail.com
+---
 
-### Projects
+### 💼 Let's Connect
 
-#### 1. CDC Web Portal (College Development Council of NEHU)
-- Description: A comprehensive web portal for managing and tracking data related to the College Development Council (CDC) of North-Eastern Hill University (NEHU).
-- Technologies: React.js, Node.js, MongoDB, Express.js, Tailwind CSS, etc.
-- Website: [CDC Web Portal](http://cdc.nehu.ac.in)
+- 🌐 **Website**: [dimpaldas.in](https://www.dimpaldas.in)  
+- 💼 **LinkedIn**: [linkedin.com/in/dimpal-das-0a098a165](https://linkedin.com/in/dimpal-das-0a098a165)  
+- 📧 **Email**: dimpaldas519@gmail.com  
 
-#### 2. Wegoo
-- Description: A car and taxi booking platform serving Guwahati, Assam.
-- Technologies: React.js, Node.js, Tailwind CSS, AOS, Framer Motion, etc.
-- Website: [Wegoo](https://wegoo.in)
+---
 
-#### 3. Solve Litigation
-- Description: An online platform for resolving legal disputes efficiently.
-- Technologies: React.js, Node.js, MongoDB, Express.js, Material-UI, etc.
-- Website: [Solve Litigation](https://solvelitigation.com)
+### 👨‍💻 What I Do
 
-#### 4. Aarambh Banquet Hall
-- Description: A website for booking events at Aarambh Banquet Hall.
-- Technologies: React.js, Node.js, Tailwind CSS, etc.
-- Website: [Aarambh Banquet Hall](https://aarambhhotelandbanquet.com)
+- Develop scalable web and mobile applications  
+- Deliver full-cycle product development from idea to deployment  
+- Optimize user experience and system performance  
+- Collaborate on cross-functional teams and freelance projects  
+- Stay current with modern development practices and tools  
 
-#### 5. TypingTest Website
-- Description: A typing test website to improve typing speed and accuracy.
-- Technologies: HTML, CSS, JavaScript, Bootstrap, etc.
-- GitHub Repository: [TypingTest Website](https://www.typingtest.tech/)
+---
 
-### Skills
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dimpal001&show_icons=true&locale=en" alt="dimpal001" />
+</div>
 
-- **Frontend**: HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS, Chakra UI, Material UI, Framer
-- **Backend**: Node.js, Express.js
-- **Databases**: MongoDB, MySQL
-- **Version Control**: Git
-- **Other**: Next.js (Currently Learning)
+---
 
-  <div align="center">
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimpal001&show_icons=true&locale=en" alt="dimpal001" /></p>
-  </div>
-
-Feel free to explore my projects and reach out to me for collaboration or project inquiries!
+Thank you for visiting my GitHub profile.  
+I'm open to new opportunities, collaborations, and projects that make a difference.
